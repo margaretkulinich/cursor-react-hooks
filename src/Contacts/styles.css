@@ -1,0 +1,40 @@
+.contacts-phone {
+    background-color: #262626;
+    color: white;
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.contacts-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.contacts-groups {
+    color: blue;
+    cursor: pointer;
+}
+
+.contacts-heading {
+    font-weight: bold;
+}
+
+.search-input {
+    background-color: rgb(143, 138, 138);
+    border-radius: 5px;
+    cursor: pointer;
+    width: 45%;
+}
+
+.search-input::placeholder{
+    color: lightgrey;
+}
+
+.contacts-list{
+    padding: 0;
+}

@@ -1,0 +1,8 @@
+.contact {
+    padding: 5px;
+    border-bottom: 1px solid grey;
+    list-style-type: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+}
